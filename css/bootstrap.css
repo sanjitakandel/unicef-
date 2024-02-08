@@ -1,0 +1,94 @@
+ body{
+    background-color: rgb(227,239,251);
+    /* height:100%;
+    width: 60px;
+     border: 1p solid black; */
+} 
+
+.img{ 
+    height:10px;
+    width: 30px;
+    
+
+    
+}
+main{
+    height: 35px;
+    width: 450px;
+
+}
+
+nav{
+    color: orangered;
+    font-family: sans-serif;
+}
+
+.main{
+    height:100vh;
+    width: 100vw;
+    /* border: 1px solid black; */
+    display: flex;
+
+}
+.div{
+    height: 80vh;
+    width: 40vw;
+    /* border: 1px solid brown; */
+margin-top:250px;
+}
+.or{
+    color: orangered;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin:auto;
+    text-align: center;
+    
+}
+.fr{
+    color:rgb(0, 128, 45);
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+p{
+    
+    text-align:center;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button{
+    color: white;
+    background-color: green;
+    font-size: 20px;
+}
+.sec{
+    background-color: green;
+    border: 1px solid red;
+    height: 100vh;
+    width: 100vw;
+}
+.one{
+    height: 31vh;
+    width: 100vw;
+    border: 1px solid black;
+}
+.head{
+    color:white ;
+    text-align: center;
+}
+.sec{
+    
+   height:  31vh;
+    width: 100vw;
+    border: 1px solid red;
+    flex-direction: row;
+}
+
+
+
+
+
+
+
+
+
